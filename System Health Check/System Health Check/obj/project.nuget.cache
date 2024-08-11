@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F5cDSACJR4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalav\\source\\repos\\System Health Check\\System Health Check\\System Health Check.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalav\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\dalav\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
